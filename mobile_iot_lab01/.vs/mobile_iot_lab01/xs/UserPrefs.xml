@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{F6500619-23E0-4FB3-9391-F33D3BC908C6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="mobile_iot_lab01/MainPage.xaml">
+    <Files>
+      <File FileName="mobile_iot_lab01/MainPage.xaml" Line="42" Column="1" IsPinned="True" />
+      <File FileName="mobile_iot_lab01/MainPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mobile_iot_lab01" expanded="True">
+            <Node name="mobile_iot_lab01" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.ItemProperties.mobile__iot__lab01 PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
